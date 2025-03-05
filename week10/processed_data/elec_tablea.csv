@@ -1,0 +1,161 @@
+,Year,Country,Electricity Access (%)
+0,2001,Afghanistan,9.3
+1,2002,Afghanistan,14.1
+2,2003,Afghanistan,19.0
+3,2004,Afghanistan,23.8
+4,2005,Afghanistan,28.7
+5,2006,Afghanistan,33.5
+6,2007,Afghanistan,38.4
+7,2008,Afghanistan,42.4
+8,2009,Afghanistan,48.3
+9,2010,Afghanistan,42.7
+10,2011,Afghanistan,43.2
+11,2012,Afghanistan,69.1
+12,2013,Afghanistan,68.0
+13,2014,Afghanistan,89.5
+14,2015,Afghanistan,71.5
+15,2016,Afghanistan,97.7
+16,2017,Afghanistan,97.7
+17,2018,Afghanistan,93.4
+18,2019,Afghanistan,97.7
+19,2020,Afghanistan,97.7
+20,2001,Bangladesh,35.0
+21,2002,Bangladesh,37.8
+22,2003,Bangladesh,40.5
+23,2004,Bangladesh,40.6
+24,2005,Bangladesh,44.2
+25,2006,Bangladesh,50.5
+26,2007,Bangladesh,46.5
+27,2008,Bangladesh,54.3
+28,2009,Bangladesh,57.1
+29,2010,Bangladesh,55.3
+30,2011,Bangladesh,59.6
+31,2012,Bangladesh,65.5
+32,2013,Bangladesh,61.5
+33,2014,Bangladesh,62.4
+34,2015,Bangladesh,74.0
+35,2016,Bangladesh,75.9
+36,2017,Bangladesh,88.0
+37,2018,Bangladesh,86.9
+38,2019,Bangladesh,92.2
+39,2020,Bangladesh,96.2
+40,2001,Bhutan,40.2
+41,2002,Bhutan,44.1
+42,2003,Bhutan,41.1
+43,2004,Bhutan,51.9
+44,2005,Bhutan,59.8
+45,2006,Bhutan,59.7
+46,2007,Bhutan,71.8
+47,2008,Bhutan,67.6
+48,2009,Bhutan,71.5
+49,2010,Bhutan,73.3
+50,2011,Bhutan,81.8
+51,2012,Bhutan,91.5
+52,2013,Bhutan,87.4
+53,2014,Bhutan,91.4
+54,2015,Bhutan,95.4
+55,2016,Bhutan,99.3
+56,2017,Bhutan,97.7
+57,2018,Bhutan,100.0
+58,2019,Bhutan,100.0
+59,2020,Bhutan,100.0
+60,2001,India,62.0
+61,2002,India,62.3
+62,2003,India,65.4
+63,2004,India,64.4
+64,2005,India,68.8
+65,2006,India,67.9
+66,2007,India,72.3
+67,2008,India,74.1
+68,2009,India,75.0
+69,2010,India,76.3
+70,2011,India,79.5
+71,2012,India,79.9
+72,2013,India,83.1
+73,2014,India,85.1
+74,2015,India,88.0
+75,2016,India,89.6
+76,2017,India,91.8
+77,2018,India,95.7
+78,2019,India,95.9
+79,2020,India,96.5
+80,2001,Maldives,87.5
+81,2002,Maldives,88.3
+82,2003,Maldives,89.1
+83,2004,Maldives,90.0
+84,2005,Maldives,90.9
+85,2006,Maldives,91.7
+86,2007,Maldives,92.6
+87,2008,Maldives,93.6
+88,2009,Maldives,99.9
+89,2010,Maldives,99.0
+90,2011,Maldives,99.1
+91,2012,Maldives,99.2
+92,2013,Maldives,99.4
+93,2014,Maldives,100.0
+94,2015,Maldives,99.8
+95,2016,Maldives,100.0
+96,2017,Maldives,99.8
+97,2018,Maldives,100.0
+98,2019,Maldives,100.0
+99,2020,Maldives,100.0
+100,2001,Nepal,24.6
+101,2002,Nepal,36.4
+102,2003,Nepal,39.6
+103,2004,Nepal,37.2
+104,2005,Nepal,46.1
+105,2006,Nepal,51.2
+106,2007,Nepal,52.6
+107,2008,Nepal,56.0
+108,2009,Nepal,59.3
+109,2010,Nepal,68.6
+110,2011,Nepal,67.3
+111,2012,Nepal,75.2
+112,2013,Nepal,77.4
+113,2014,Nepal,84.9
+114,2015,Nepal,82.0
+115,2016,Nepal,90.7
+116,2017,Nepal,86.6
+117,2018,Nepal,93.9
+118,2019,Nepal,89.9
+119,2020,Nepal,89.9
+120,2001,Pakistan,73.9
+121,2002,Pakistan,74.9
+122,2003,Pakistan,76.0
+123,2004,Pakistan,77.0
+124,2005,Pakistan,78.1
+125,2006,Pakistan,79.1
+126,2007,Pakistan,80.2
+127,2008,Pakistan,81.4
+128,2009,Pakistan,82.5
+129,2010,Pakistan,87.1
+130,2011,Pakistan,87.8
+131,2012,Pakistan,88.6
+132,2013,Pakistan,89.3
+133,2014,Pakistan,90.1
+134,2015,Pakistan,91.0
+135,2016,Pakistan,91.8
+136,2017,Pakistan,92.7
+137,2018,Pakistan,93.4
+138,2019,Pakistan,93.9
+139,2020,Pakistan,94.5
+140,2001,Sri Lanka,63.6
+141,2002,Sri Lanka,80.7
+142,2003,Sri Lanka,75.0
+143,2004,Sri Lanka,76.5
+144,2005,Sri Lanka,78.1
+145,2006,Sri Lanka,82.1
+146,2007,Sri Lanka,80.0
+147,2008,Sri Lanka,82.9
+148,2009,Sri Lanka,87.1
+149,2010,Sri Lanka,85.3
+150,2011,Sri Lanka,87.8
+151,2012,Sri Lanka,87.0
+152,2013,Sri Lanka,90.2
+153,2014,Sri Lanka,92.7
+154,2015,Sri Lanka,94.3
+155,2016,Sri Lanka,97.5
+156,2017,Sri Lanka,97.5
+157,2018,Sri Lanka,99.6
+158,2019,Sri Lanka,99.8
+159,2020,Sri Lanka,100.0
