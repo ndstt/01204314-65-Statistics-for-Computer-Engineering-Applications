@@ -9,7 +9,7 @@
 
 | ไฟล์ | รายละเอียด |
 |------|-------------|
-| `metadata_final.xlsx` | ไฟล์คำนวณ |
+| `metadata_final.xlsx` | รายละเอียดของ Attribute |
 | `part1.ipynb` | ไฟล์คำนวณ |
 | `train.csv` | ข้อมูลหลังจาก preprocess แล้ว |
 | `worldbank_2017_2021.csv` | Raw Data |
