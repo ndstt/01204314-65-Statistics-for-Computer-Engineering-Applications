@@ -1,6 +1,6 @@
 # 📁 Part 2.1
 
-This project involves analyzing regional policy texts to compare gender and equality-related terms across different continents using NLP techniques such as TF-IDF, Word2Vec, and named entity recognition.
+This project involves analyzing regional policy texts to compare gender and equality-related terms across different continents using NLP techniques such as Word2Vec, and named entity recognition.
 
 ---
 
