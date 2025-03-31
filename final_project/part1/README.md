@@ -1,4 +1,4 @@
-# 📁 part1 – GNI per Capita Prediction (Data Cleaning & Decision Tree Model)
+# 📁 Part 1 – GNI per Capita Prediction
 
 โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชา **01204314: Statistics for Computer Engineering Applications**  
 มีจุดประสงค์เพื่อพัฒนาโมเดล Decision Tree สำหรับพยากรณ์ค่ารายได้ประชาชาติต่อหัว (GNI per capita) โดยใช้ข้อมูลจาก World Bank
